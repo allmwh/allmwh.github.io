@@ -9,8 +9,63 @@ menu: 關於
 permalink: /about/
 ---
 
+網站使用[Zohar](https://zoharyip.club/)大大的theme，再自行加上慣用的評論，分享系統，繁體中文化
+
+theme repo:https://github.com/zoharyips/zoharyips.github.io
+
+### CV唬爛版
+
+- 面試不會加分的棒子
+- 可撥生科系QQ
+- 所以很窮
+- 對資訊有興趣，但不知為啥跑來生科，所以懂得很皮毛
+- ==中間不空格的使用者
+- 乃木坂粉
+- 二乃我婆><
+
+### 網站大事記
+
+#### 2020/02/09
+
+wordpress實在太慢了qqq，所以踏進了靜態網頁的世界，明明前端甚麼的都還是不懂，之後再慢慢把wp搬過來，邊摸邊學吧~~
+
+------
+
+#### 2019/12/14
+
+最近真的窮到靠北，所以加了一like bottom，文章對您有幫助的話，拜託幫我按個讚拉，我也會努力產文的
+
+------
+
+#### 2019/11/23
+
+推甄推完了… 意外的成果不錯
+之後再來分享推甄心得
+
+------
+
+#### 2019/04/16
+
+還是忍不住，從免費空間搬到電腦上了><
+
+產出文章量=0
+
+seo優化也好難做 暫時先這樣掛著吧
+
+------
+
+#### 2019/03/16
+
+之前在medium創blog，種種原因沒寫又肚爛(原因大概和日本那時一樣==)，之後搬來這裡
+
+目標:把wordpress的免費空間寫爆，付錢，不然每次都不能堅持
+
+然後這次狠下心來還是另有原因的，一年後看有沒有效再說出來吧
+
+
+
 <div>
-  <h3>Contact me</h3>
+  <h3>聯繫方式</h3>
   <ul style="line-height: 3rem;list-style-type: none;">
     {% for obj in site.data.social %}
     <li>
@@ -19,7 +74,7 @@ permalink: /about/
     </li>
     {% endfor %}
   </ul>
-  <h3>Abilities</h3>
+  <h3>技能樹</h3>
   <ul style="list-style-type: none;">
     {% for skill in site.data.skills %}
       <li>
