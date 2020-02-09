@@ -1,4 +1,8 @@
-{% if page.share != false %}
-  <!-- 分享模块 -->
-  <div class="share-component" style="text-align: center"></div>
-{% endif %}
+{%- if site.sharing.provider == 'addtoany' -%}
+  {%- include sharing-providers/addtoany.html -%}
+{%- elsif site.sharing.provider == 'addthis' -%}
+  {%- include sharing-providers/addthis.html -%}
+  {%- elsif site.sharing.provider == 'custom' -%}
+  {%- include sharing-providers/custom.html -%}
+{%- endif -%}
+

@@ -8,22 +8,22 @@
 # Site Settings
 baseurl:
 # It will redirect your site to this url
-url                 : https://zoharyips.github.io
-title               : Zohar's blog
-name                : zohar's blog
-subtitle            : "Chinese by birth, Programmer by choice"
-description         : "The personal blog of zohar, a ascetic on the road to programming."
-repository          : zoharyips/zoharyips.github.io
-keywords            : zohar, zohar Yip, Zohar' Blog, 叶卓豪, zohar_Yip, zoharyips
+url                 : https://blog.allmwh.org
+title               : allmwh's story
+name                : allmwh
+subtitle            : "Biochem by degree, Programmer by life"
+description         : "description something"
+repository          : allmwh/allmwh.github.io
+keywords            : allmwh, jonas870103, 何玟霖,allmwh0103
 date_format         : "ordinal"
-timezone            : Asia/Shanghai
+timezone            : Asia/Taipei
 encoding            : "utf-8"
 side_bar_repo_limit : 3
 
-author              : zohar
-github_username     : zoharyips
-location            : Guangzhou, China
-email               : zoharyips@outlook.com
+author              : allmwh
+github_username     : allmwh
+location            : Keelung, Taiwan
+email               : jonas870103@gmail.com
 
 markdown            : kramdown
 kramdown:
@@ -33,8 +33,8 @@ paginate            : 12
 lsi                 : false
 quiet               : false
 future              : true
-excerpt_separator   : "\n\n"                # 摘录的分隔符
-permalink           : /posts/:title.html    # 博文发布的 URL，伪静态
+excerpt_separator   : <!--more-->                # 摘录的分隔符
+permalink           : /:year-:month/:title    # 博文发布的 URL，伪静态
 plugins:
   - jekyll-github-metadata                  # github 元信息
   - rouge
@@ -46,13 +46,13 @@ plugins:
   - jekyll-seo-tag                          # 自动 SEO 头信息生成
 #   - jekyll-html-pipeline                  #
 #   - jekyll-mentions                       # 用于 @github 用户
-collections:
-  wiki:
-    output          : true
-    permalink       : /wiki/:path.html
-  design-mode: 
-    output          : true
-    permalink       : /design-mode/:path.html
+#collections:
+  #wiki:
+  #  output          : true
+  #  permalink       : /wiki/:path.html
+  #design-mode: 
+  #  output          : true
+  #  permalink       : /design-mode/:path.html
 
 
 
@@ -60,31 +60,35 @@ collections:
 navs:
   -
     href            : /
-    label           : 首页
+    label           : 首頁
 
   -
     href            : /categories/
-    label           : 分类
+    label           : 分類
 
 # -
 #   href            : /archives/
-#   label           : 归档
+#   label           : 歸檔
 
-  -
-    href            : /wiki/
-    label           : 维基
+#  -
+#    href            : /wiki/
+#    label           : 维基
 
-  -
-    href            : /links/
-    label           : 链接
+#  -
+#    href            : /links/
+#    label           : 链接
 
   -
     href            : /about/
-    label           : 关于
+    label           : 關於
 
 subscribe_rss       : /feed.xml
 
+
 # 评论模块
+comments_provider: disqus
+disqus:
+ username: allmwh-blog
 # gitalk:
 #   owner             : zoharyips
 #   repo              : blog-comments
@@ -96,16 +100,22 @@ simple_jekyll_search:
   fulltext          : false
 
 # leanCloud 访问统计
-leancloud:
-  enable: true
-  app_id: 7EiyLoiTRMpJGKx5Jyy6FV0S-gzGzoHsz
-  app_key: 0l02blBLDj6noCkLMoF76LD8
-  class_name: visited_times
+#leancloud:
+# enable: true
+# app_id: 7EiyLoiTRMpJGKx5Jyy6FV0S-gzGzoHsz
+# app_key: 0l02blBLDj6noCkLMoF76LD8
+# class_name: visited_times
 
 # 谷歌分析
 google:
-  analytics_id      : UA-146513129-1
+  analytics_id      : UA-157884523-1
 
 # 备案号
-beian               : 粤ICP备18146252号-1
-MIIT                : http://www.beian.miit.gov.cn
+#beian               : 粤ICP备18146252号-1
+#MIIT                : http://www.beian.miit.gov.cn
+
+#分享功能
+sharing:
+  provider: addthis
+  addthis:
+    id: ra-5e3ae037d5894c86

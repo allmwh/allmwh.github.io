@@ -12,6 +12,7 @@ drwxr-xr-x  3 root  root  4096 3月  19 15:35 .
 drwxr-xr-x 24 root  root  4096 3月  19 16:03 ..
 drwxr-xr-x 18 zohar zohar 4096 3月  19 16:51 zohar
 ```
+<!--more-->
 
 **目录**
 
