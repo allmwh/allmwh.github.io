@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-description: 既然选择远方，便只顾风雨兼程。哈... 我又肚子饿了
+description: 目標是地平線，留給世界的只能是背影。。。 而且走太快趨近光速就會看到自己背影了 
 share: false
 comments: true
 canvas: true
-menu: 关于
+menu: 關於
 permalink: /about/
 ---
 

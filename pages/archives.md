@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 归档
-description: 按年份归档
+title: 歸檔
+description: 按年份歸檔
 comments: false
 share: false
 repositories: false
 categories: true
 canvas: true
-menu: 归档
+menu: 歸檔
 permalink: /archives/
 ---
 
