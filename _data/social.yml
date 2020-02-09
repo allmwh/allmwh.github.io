@@ -9,26 +9,28 @@
   sitename: Telegram
   name: "&emsp;allmwh"
   url: https://t.me/allmwh
-  svg: /assets/svg/wechat.svg
-  title: Contact me on telegram
+  svg: /assets/svg/telegram.svg
+  title: Contact me on Telegram
 
 -
-  sitename: AEmail
-  name: "&emsp;zoharyips@outlook.com"
-  url: mailto:zoharyips@outlook.com
-  svg: /assets/svg/mailbox.svg
+  sitename: Gmail
+  name: "&emsp;jonas870103@gmail.com"
+  url: mailto:jonas870103@gmail.com
+  svg: /assets/svg/gmail.svg
   title: Send me an email
 
 -
-  sitename: Blog
-  name: "&emsp;&emsp;zohar's blog"
-  url: https://zoharyip.club
-  svg: /assets/svg/website.svg
-  title: This is this blog
+  sitename: Linkedin
+  name: "&emsp;何玟霖"
+  url: https://www.linkedin.com/in/allmwh/
+  svg: /assets/svg/linkedin.svg
+  title: This is my Linkedin，目前沒東西啦xd
+
 
 -
-  sitename: LeetCode
-  name: "zoharyips"
-  url: https://leetcode-cn.com/u/zoharyips/
-  svg: /assets/svg/leetcode.svg
-  title: See my leetcode life
+  sitename: Blog
+  name: "&emsp;allmwh's story"
+  url: https://blog.allmwh.org
+  svg: /assets/svg/blog.svg
+  title: This is this blog
+

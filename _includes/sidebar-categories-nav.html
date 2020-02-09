@@ -1,17 +1,5 @@
 {% if page.categories %}
-  <!-- 分类菜单展示 -->
-  {% if page.title == 'Categories'%}
-    <div style="margin-top: 1.5rem;display: flex; flex-direction: row;">
-      <a href="/archives/" style="text-decoration:underline;color: #333;">
-        <h3>Archive by date</h3>
-      </a>
-      <span style="font-size: 0.7rem;color: #333; flex: 1; align-self: center; text-align: right;">按照日期歸檔</span>  
-    </div>
-    <span style="margin-bottom: 1.5rem;font-size: 0.7rem;color: #333">本站文章皆為原創，如需轉載，請附上文章網址~</span><br/>
-    <h3 class="post-directory-title">Categories</h3>
-  {% else %}
-    <h3 class="post-directory-title">Post articles</h3>
-  {% endif %}
+  <h3 class="post-directory-title">分類</h3>
   <div id="post-directory-module">
     <ul class="list-group">
       {% assign sorted_categories = site.categories | sort %}

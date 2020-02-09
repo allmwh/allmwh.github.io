@@ -1,0 +1,16 @@
+{% if page.categories %}
+  <!-- 分类菜单展示 -->
+  {% if page.url ==  "/categories/" %}
+    <div style="margin-top: 1.5rem;display: flex; flex-direction: row;">
+      <a href="/archives/" style="text-decoration:underline;color: #333;">
+        <h2>按照日期排列</h2>
+      </a>
+    </div>
+  {% else if page.url == "/archives/" %}
+    <div style="margin-top: 1.5rem;display: flex; flex-direction: row;">
+    <a href="/categories/" style="text-decoration:underline;color: #333;">
+      <h2>按照類別排列</h2>
+    </a>
+    </div>
+  {% endif %}
+  {% endif %}

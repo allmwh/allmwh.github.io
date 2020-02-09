@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 description: 目標是地平線，留給世界的只能是背影。。。 而且走太快趨近光速就會看到自己背影了 
 share: false
@@ -22,6 +22,36 @@ Theme repo:[https://github.com/zoharyips/zoharyips.github.io](https://github.com
 - ==中間不空格的使用者
 - 乃木坂粉
 - 二乃我婆><
+
+### 聯繫方式
+
+<div>
+  <ul style="line-height: 3rem;list-style-type: none;">
+    {% for obj in site.data.social %}
+    <li>
+      <img width="32" height="32" style="margin-right:0.375rem;vertical-align: middle;" src="{{ obj.svg }}"/>&nbsp;
+      <a href="{{ obj.url }}" title="{{ obj.title }}" style="white-space:pre"><code>{{ obj.sitename }}</code> {{ obj.name }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+### 技能樹
+
+<div>
+<ul style="list-style-type: none;">
+    {% for skill in site.data.skills %}
+      <li>
+        <h4>{{ skill.name }}</h4>
+        <div class="btn-inline">
+          {% for keyword in skill.keywords %}
+            <button class="btn btn-outline" type="button">{{ keyword }}</button>
+          {% endfor %}
+        </div>
+      </li>
+    {% endfor %}
+ </ul>
+</div>
 
 ### 網站大事記
 
@@ -64,27 +94,3 @@ seo優化也好難做 暫時先這樣掛著吧
 
 
 
-<div>
-  <h3>聯繫方式</h3>
-  <ul style="line-height: 3rem;list-style-type: none;">
-    {% for obj in site.data.social %}
-    <li>
-      <img width="32" height="32" style="margin-right:0.375rem;vertical-align: middle;" src="{{ obj.svg }}"/>&nbsp;
-      <a href="{{ obj.url }}" title="{{ obj.title }}" style="white-space:pre"><code>{{ obj.sitename }}</code> {{ obj.name }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-  <h3>技能樹</h3>
-  <ul style="list-style-type: none;">
-    {% for skill in site.data.skills %}
-      <li>
-        <h4>{{ skill.name }}</h4>
-        <div class="btn-inline">
-          {% for keyword in skill.keywords %}
-            <button class="btn btn-outline" type="button">{{ keyword }}</button>
-          {% endfor %}
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-</div>

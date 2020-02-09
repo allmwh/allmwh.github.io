@@ -1,24 +1,25 @@
 -
-  name: Software Engineer
+  name: Language ability
   keywords:
-    - Java
-    - Go
-    - C/C++
+    - "English (TOEIC 825)" 
+    - "Japanese (JLPT N1)"
+    - "Chinese(native)"
 
 -
-  name: Web Developer
+  name: Software 
   keywords:
-    - JavaScript
-    - JQuery
-
+    - Python
+    - Go 
 -
-  name: Mobile Developer
+  name: Operations 
   keywords:
-    - Android
-    - Wechat
-
--
-  name: Operations Engineer
-  keywords:
+    - Docker 
     - CentOS
     - Ubuntu
+    
+-
+  name: Front-end 
+  keywords:
+    - Ruby on Rails 
+    - JavaScript
+

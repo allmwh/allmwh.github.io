@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 歸檔
-description: 按年份歸檔
+title: 按日期排列
+description: 文章產能不足......
 comments: false
 share: false
 repositories: false
