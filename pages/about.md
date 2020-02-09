@@ -11,7 +11,7 @@ permalink: /about/
 
 網站使用[Zohar](https://zoharyip.club/)大大的theme，再自行加上慣用的評論，分享系統，繁體中文化
 
-theme repo:https://github.com/zoharyips/zoharyips.github.io
+Theme repo:[https://github.com/zoharyips/zoharyips.github.io](https://github.com/zoharyips/zoharyips.github.io)
 
 ### CV唬爛版
 
