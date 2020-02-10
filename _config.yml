@@ -7,6 +7,7 @@
 
 # Site Settings
 baseurl:
+  
 # It will redirect your site to this url
 url                 : https://blog.allmwh.org
 title               : allmwh's story

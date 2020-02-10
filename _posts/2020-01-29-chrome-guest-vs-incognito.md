@@ -30,7 +30,7 @@ categories: [資訊,軟體小技巧]
 
 打開後長這樣，可以看到我的書籤不見了，並且我輸入字串，**沒有為我推薦東西，所以沒有繼承一般模式的cookie**，我想，這樣應該才比較符合我們去別人家用電腦，想要用的樣子吧…，雖然有點偏執就是了xd
 
-![Image-010](/attachments/2019-01-29-chrome-guest-vs-incognito/Image-010.png)
+<img src="/attachments/2020-01-29-chrome-guest-vs-incognito/Image-010.png" alt="Image-010"  />
 
 ## 兩個模式的重點、使用時機
 
