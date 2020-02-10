@@ -12,7 +12,7 @@ categories: [資訊,chrome,軟體小技巧]
 
 以[Oxford Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/)當作範例
 
-![01-2](/attachments/Untitled/01-2.gif)
+![01-2](/attachments/2020-01-15-google-custom-search-engine/01-2.gif)
 
 知道我的意思了嗎～～ 只要在chrome的網址列上打想查的單字，就可以直接連到指定的網站查了
 
@@ -20,13 +20,13 @@ categories: [資訊,chrome,軟體小技巧]
 
 利用[google學術搜尋](http://scholar.google.com.tw/)，要找論文一樣可以哦
 
-![02-1](/attachments/Untitled/02-1.gif)
+![02-1](/attachments/2020-01-15-google-custom-search-engine/02-1.gif)
 
 ## 範例：stack overflow
 
 要去[stack overflow](https://stackoverflow.com/)去問[怎麼退出vim](https://gitbook.tw/chapters/command-line/vim-introduction.html)也可以的…
 
-![03](/attachments/Untitled/03.gif)
+![03](/attachments/2020-01-15-google-custom-search-engine/03.gif)
 
 總之，只要有可以搜尋功能的網頁，都可以自訂搜尋引擎來快速搜尋哦
 
@@ -50,11 +50,11 @@ https://scholar.google.com.tw/scholar?hl=zh-TW&as_sdt=0%2C5&q=p21&oq=
 
 chrome設定，搜尋引擎，**管理搜尋引擎**
 
-![Image-001](/attachments/Untitled/Image-001.png)
+![Image-001](/attachments/2020-01-15-google-custom-search-engine/Image-001.png)
 
 上方預設搜尋引擎不要管他，我們來**新增下面的其他搜尋引擎**
 
-![Image-001-1](/attachments/Untitled/Image-001-1.png)
+![Image-001-1](/attachments/2020-01-15-google-custom-search-engine/Image-001-1.png)
 
 有3個欄位讓你填
 
@@ -67,3 +67,4 @@ https://scholar.google.com.tw/scholar?hl=zh-TW&as_sdt=0%2C5&q=%s&oq=
 ```
 
 這樣就大功告成了！！，往後想搜尋什麼，只要在網址列上打東西，方便很多，外人看來應該也頗潮的吧，應該…拉，基本上所有的網址都能這樣改，如果有不知道怎麼設的，歡迎下面留言，可以幫你看看哦
+
