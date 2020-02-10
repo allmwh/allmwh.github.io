@@ -2,8 +2,6 @@
 layout: post
 title: About
 description: 目標是地平線，留給世界的只能是背影。。。 而且走太快趨近光速就會看到自己背影了 
-share: false
-comments: true
 canvas: true
 menu: 關於
 permalink: /about/
