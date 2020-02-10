@@ -7,19 +7,22 @@ menu: 關於
 permalink: /about/
 ---
 
-網站使用[Zohar](https://zoharyip.club/)大大的theme，再自行加上慣用的評論，分享系統，繁體中文化
+allmwh，熱愛資訊的一切東西，原本想要讀資工，原本打算全身踏進碼農世界，但最終跑來了...生科==，目前生科系大四，順理成章的要讀研究所了，期望能找到生科與資訊的結合，成為有＂生物資訊＂專長的人，想多了解機器學習、系統架構、還想再加點前端
 
-Theme repo:[https://github.com/zoharyips/zoharyips.github.io](https://github.com/zoharyips/zoharyips.github.io)
+> 資訊的任何東西能當我一輩子的side work
+
+### CV正式版
+
+WIP
 
 ### CV唬爛版
 
 - 面試不會加分的棒子
-- 可撥生科系QQ
-- 所以很窮
+- 可撥生科系QQ，所以很窮
 - 對資訊有興趣，但不知為啥跑來生科，所以懂得很皮毛
 - ==中間不空格的使用者
 - 乃木坂粉
-- 二乃我婆><
+- 二乃我婆>< (2020/01/15更新)
 
 ### 聯繫方式
 
@@ -51,7 +54,13 @@ Theme repo:[https://github.com/zoharyips/zoharyips.github.io](https://github.com
  </ul>
 </div>
 
-### 網站大事記
+### Jekyll 佈景主題
+
+網站使用[Zohar](https://zoharyip.club/)大大的theme，再自行加上慣用的評論，分享系統，繁體中文化
+
+Theme repo:[https://github.com/zoharyips/zoharyips.github.io](https://github.com/zoharyips/zoharyips.github.io)
+
+### 大事記
 
 #### 2020/02/09
 
