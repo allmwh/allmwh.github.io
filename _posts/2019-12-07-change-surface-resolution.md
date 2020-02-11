@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: 調低surface的解析度-安裝intel的驅動程式
 categories: [資訊,軟體小技巧]

@@ -13,13 +13,16 @@ url                 : https://blog.allmwh.org
 title               : allmwh's story
 name                : allmwh
 subtitle            : "Life science by degree, Programmer by life"
-description         : "生科人的資訊夢|研究所|日文|動畫|ps4"
+tagline             : "生科人的資訊夢|研究所|日文|動畫|ps4"
+description         : "allmwh，熱愛資訊的一切東西，原本想要讀資工，原本打算全身踏進碼農世界，但最終跑來了…生科==，目前生科系大四，順理成章的要讀研究所了，期望能找到生科與資訊的結合，成為有＂生物資訊＂專長的人，想多了解機器學習、系統架構、還想再加點前端"
 repository          : allmwh/allmwh.github.io
 keywords            : allmwh, jonas870103, 何玟霖,allmwh0103
 date_format         : "ordinal"
 timezone            : Asia/Taipei
 encoding            : "utf-8"
 side_bar_repo_limit : 3
+logo : /favicon.svg
+lang : zh_TW
 
 author              : allmwh
 github_username     : allmwh
