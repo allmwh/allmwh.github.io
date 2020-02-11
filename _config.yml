@@ -7,7 +7,7 @@
 
 # Site Settings
 baseurl: 
-  
+
 # It will redirect your site to this url
 url                 : https://blog.allmwh.org
 title               : allmwh's story
@@ -35,7 +35,7 @@ lsi                 : false
 quiet               : false
 future              : true
 excerpt_separator   : <!--more-->                # 摘录的分隔符
-permalink           : /:year-:month/:title    # 博文发布的 URL，伪静态
+permalink           : /:year-:month/:title/    # 博文发布的 URL，伪静态
 plugins:
   - jekyll-github-metadata                  # github 元信息
   - rouge
