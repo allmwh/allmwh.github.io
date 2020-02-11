@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 兩個輔助sci-hub的腳本
+description: sci-hub在瀏覽器上的輔助腳本，讓sci-hub更好用
 categories: [資訊,chrome,軟體小技巧,研究所]
 ---
 

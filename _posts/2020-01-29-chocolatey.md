@@ -1,6 +1,7 @@
 ---
 layout: post
 title: windows上的軟體管理工具-chocolatey
+description: windows上的軟體管理工具-chocolatey
 categories: [資訊,windows,軟體小技巧]
 ---
 

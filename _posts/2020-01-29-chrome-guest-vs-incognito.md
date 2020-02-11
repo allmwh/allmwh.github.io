@@ -1,6 +1,7 @@
 ---
 layout: post
 title: chrome去別人家總是用「無痕模式」？，你應該是要用「訪客模式」！
+description: 無痕模式與訪客模式的差別
 categories: [資訊,軟體小技巧]
 ---
 

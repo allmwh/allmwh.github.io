@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 刪除windows網路芳鄰儲存的密碼(windows 10,8,xp)
+description: 刪除windows網路芳鄰儲存的密碼
 categories: [資訊,windows,軟體小技巧]
 ---
 
