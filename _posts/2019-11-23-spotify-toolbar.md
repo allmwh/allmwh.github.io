@@ -23,6 +23,6 @@ categories: [資訊,軟體小技巧]
 
 ## 下載連結
 
-https://github.com/dsafa/audio-band
+[https://github.com/dsafa/audio-band](https://github.com/dsafa/audio-band)
 
 裡面就有詳細的教學了 自己試試吧!
