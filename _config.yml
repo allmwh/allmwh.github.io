@@ -39,6 +39,7 @@ future              : true
 excerpt_separator   : <!--more-->                # 摘录的分隔符
 permalink           : /:year-:month/:title/    # 博文发布的 URL，伪静态
 plugins:
+  - jekyll-target-blank
   - jekyll-github-metadata                  # github 元信息
   - rouge
   - jekyll-octicons                         # 支持 octions 图标
@@ -49,7 +50,6 @@ plugins:
   - jekyll-seo-tag                          # 自动 SEO 头信息生成
 #   - jekyll-html-pipeline                  #
 #   - jekyll-mentions                       # 用于 @github 用户
-  - jekyll-target-blank
 #collections:
   #wiki:
   #  output          : true
