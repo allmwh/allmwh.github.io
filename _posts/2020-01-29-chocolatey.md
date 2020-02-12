@@ -2,7 +2,7 @@
 layout: post
 title: windows上的軟體管理工具-chocolatey
 description: windows上的軟體管理工具-chocolatey
-categories: [資訊,windows,軟體小技巧]
+categories: [資訊,Windows]
 ---
 
 chocolatey就和某些linux distribution中的軟體管理工具一樣(apt/yum)，可以集中式管理軟體的下載，安裝和移除，如果習慣linux上抓軟體的方法的話，使用這款工具在windows上會方便很多

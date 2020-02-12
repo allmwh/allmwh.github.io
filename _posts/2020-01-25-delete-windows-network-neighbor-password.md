@@ -2,7 +2,7 @@
 layout: post
 title: 刪除windows網路芳鄰儲存的密碼(windows 10,8,xp)
 description: 刪除windows網路芳鄰儲存的密碼
-categories: [資訊,windows,軟體小技巧]
+categories: [資訊,Windows]
 ---
 
 前陣子架linux samba，要測可不可以連，就要常刪網芳的密碼，稍微記錄一下
