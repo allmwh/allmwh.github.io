@@ -13,12 +13,12 @@ categories: [資訊,Linux,MyRepo]
 我把相關教學放在我的github上了: [https://github.com/allmwh/datadog-sensors]( https://github.com/allmwh/datadog-sensors)
 這邊只做一些演示
 
-![demo](/attachments/Untitled/demo.png)
+![demo](/attachments/2019-07-20-lm-sensors-in-datadog/demo.png)
 
 很多台電腦同時安裝後，可以做一個監控頁面，所有電腦的狀態都很清楚
 datadog功能很多，還可以設定到一定溫度就寄email的功能
 
-![圖片_015](/attachments/Untitled/圖片_015.png)
+![圖片_015](/attachments/2019-07-20-lm-sensors-in-datadog/圖片_015.png)
 
 ## 監測nvidia顯卡以及apc ups
 

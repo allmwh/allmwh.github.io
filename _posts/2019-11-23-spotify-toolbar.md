@@ -6,7 +6,7 @@ categories: [資訊,軟體小技巧]
 ---
 大概的效果就長這樣
 
-![圖片_003](/attachments/2019-11-23-/圖片_003.png)
+![圖片_003](/attachments/2019-11-23-spotify-toolbar/圖片_003.png)
 
 <!--more-->
 
@@ -14,9 +14,9 @@ categories: [資訊,軟體小技巧]
 
 設定畫面
 
-![圖片_004](/attachments/2019-11-23-/圖片_004.png)
+![圖片_004](/attachments/2019-11-23-spotify-toolbar/圖片_004.png)
 
-![圖片_005](/attachments/2019-11-23-/圖片_005.png)
+![圖片_005](/attachments/2019-11-23-spotify-toolbar/圖片_005.png)
 
 還蠻方便的，就可以不用再開spotify控制音樂
 這是第三方程式 作者網址如下
