@@ -129,4 +129,6 @@ sharing:
 #連結自動開新分頁
 new_tab:
   enable: true
-  
+
+# LikeButton
+liker_id: allmwh0103
