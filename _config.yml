@@ -48,6 +48,7 @@ plugins:
   - jemoji                                  # 解析 emoji
   - jekyll-sitemap                          # 自动生成 sitemap
   - jekyll-seo-tag                          # 自动 SEO 头信息生成
+  - jekyll-analytics
 #   - jekyll-html-pipeline                  #
 #   - jekyll-mentions                       # 用于 @github 用户
 #collections:
@@ -113,6 +114,11 @@ simple_jekyll_search:
 # 谷歌分析
 google:
   analytics_id      : UA-157884523-1
+
+  jekyll_analytics:
+    GoogleAnalytics:          # Add, if you want to track with Google Analytics
+      id: UA-157884523-1          # Required - replace with your tracking id
+      anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # 备案号
 #beian               : 粤ICP备18146252号-1
