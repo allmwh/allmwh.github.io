@@ -115,10 +115,10 @@ simple_jekyll_search:
 google:
   analytics_id      : UA-157884523-1
 
-  jekyll_analytics:
-    GoogleAnalytics:          # Add, if you want to track with Google Analytics
-      id: UA-157884523-1          # Required - replace with your tracking id
-      anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-157884523-1          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # 备案号
 #beian               : 粤ICP备18146252号-1
