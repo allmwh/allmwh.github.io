@@ -125,3 +125,8 @@ sharing:
   provider: addthis
   addthis:
     id: ra-5e3ae037d5894c86
+
+#連結自動開新分頁
+new_tab:
+  enable: true
+  
