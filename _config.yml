@@ -115,9 +115,11 @@ google:
   analytics_id      : UA-157884523-1
 
 
-# 备案号
-#beian               : 粤ICP备18146252号-1
-#MIIT                : http://www.beian.miit.gov.cn
+# 創用cc授權
+cc:
+  license_logo: /assets/svg/cc.svg
+  license: https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
+  word: 本著作係採用創用 CC 姓名標示-相同方式分享 4.0 國際 授權條款授權.
 
 #分享功能
 sharing:

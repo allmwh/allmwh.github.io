@@ -4,16 +4,17 @@
     <div class="copyright left mobile-block">
       © {% assign year = site.time | date: '%Y' %}{{ year }}
       <span title="{{ site.author}}">{{ site.author }}&nbsp;&nbsp;</span>
-      {% if site.beian %}
-        <a href="{{ site.MIIT }}" class="right mobile-visible site-record">{{ site.beian }}</a>
+      
+      {% if site.cc %}
+        <a href="{{ site.cc.license }}" class="right mobile-visible site-record">{{ site.cc.word }}</a>
       {% else %}
         <a href="javascript:window.scrollTo(0,0)" class="right mobile-visible">TOP</a>
       {% endif %}
     </div>
     <ul class="site-footer-links right mobile-hidden">
       <li>
-        <img width="16px" height="16px" src="/assets/svg/siterecord.svg" style="vertical-align: middle;"/>
-        <a href="{{ site.MIIT }}" class="site-record" >{{ site.beian }}</a>
+        <img width="80px" height="26px" src="{{ site.cc.license_logo}}" align ="right" style="vertical-align: middle;"/>
+        <br /><br /><a href="{{ site.cc.license }}" class="site-record" >{{ site.cc.word }}</a>
       </li>
     </ul>
     <a href="https://github.com/{{ site.github_username }}" target="_blank" aria-label="view source code">
@@ -108,7 +109,7 @@
   gtag('js', new Date());
   
   gtag('config', '{{ site.google.analytics_id }}');
-</script> -->
+</script> 
 {% endif %}
 
 <!-- 百度自动推送脚本，百度站长加入使用 -->
