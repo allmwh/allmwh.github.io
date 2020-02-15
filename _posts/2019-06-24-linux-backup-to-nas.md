@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 備份linux上的資料到synology nas (不需使用rsync+cront
+title: 備份linux上的資料到synology nas (不需使用rsync+crontab)
 description: 使用synology的套件 active backup for business 可以直接使用ssh對於linux系統作定時備份
 categories: [資訊,Linux]
 ---
