@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 設定jekyll開啟連結都使用超連結
-description: 設定jekyll開啟連結都使用超連結
+title: 設定jekyll開啟連結都使用新分頁開啟
+description: 設定jekyll開啟連結都使用新分頁開啟
 categories: [資訊,jekyll]
 ---
 
