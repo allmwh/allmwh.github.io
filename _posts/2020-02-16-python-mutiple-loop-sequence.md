@@ -6,8 +6,6 @@ categories: [資訊,python]
 ---
 以前沒有認真看過一遍[精通pytohn](https://www.tenlong.com.tw/products/9789863477310?list_name=srh)時，就遇到這個問題，稍微做個紀錄
 
-
-
 <!--more-->
 ## 問題
 > 有兩個串列想同時在迴圈中迭代
