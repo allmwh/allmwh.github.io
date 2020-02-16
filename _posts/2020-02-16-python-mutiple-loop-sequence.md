@@ -4,7 +4,7 @@ title: python學習筆記-在for迴圈中迭代多個序列
 description: python學習筆記-在for迴圈中迭代多個序列
 categories: [資訊,python]
 ---
-以前沒有認真看過一遍[精通pytohn](https://www.tenlong.com.tw/products/9789863477310?list_name=srh)時，就遇到這個問題
+以前沒有認真看過一遍[精通pytohn](https://www.tenlong.com.tw/products/9789863477310?list_name=srh)時，就遇到這個問題，稍微做個紀錄
 
 
 
@@ -42,3 +42,5 @@ zebra:purple
 
 這樣就完成多個序列的迭代，當然不只`list[]`，`tuple()`，`dict{}`，`set{}`都可以這樣做
 
+## 參考資料
+* 精通python p86
