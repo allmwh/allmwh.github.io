@@ -39,26 +39,29 @@ canvas: true
 <!-- /.banner -->
 <!-- Main Session -->
 <section class="container content">
-  <ol class="repo-list">
-    {% for post in paginator.posts %}
-      <li class="repo-list-item">
-        <h3 class="repo-list-name"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="repo-list-description">{{ post.excerpt | strip_html | strip }}</p>
-        <p class="repo-list-meta">
+  <div class="one-thirds" >
+    <ol class="repo-list">
+      {% for post in paginator.posts %}
+        <li class="repo-list-item">
+          <h3 class="repo-list-name"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p class="repo-list-description">{{ post.excerpt}}</p>
+          <p class="repo-list-meta">
           <span class="meta-info-left">
-            <span class="octicon octicon-calendar"></span> {{ post.date | date: "%Y/%m/%d" }}
+          <span class="octicon octicon-calendar"></span> {{ post.date | date: "%Y/%m/%d" }}
           </span>
-          {% for cat in post.categories %}
+        {% for cat in post.categories %}
           <span class="meta-info-right">
-            <span class="octicon octicon-file-directory"></span>
-            <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
+          <span class="octicon octicon-file-directory"></span>
+          <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
           </span>
-          {% endfor %}
-        </p>
-      </li>
+        {% endfor %}
+            </p>
+        </li>
       <div class="repo-filler"> </div>
-    {% endfor %}
-  </ol>
+      {% endfor %}
+    </ol>
+  </div>
+
   <div class="pagination text-align" style="text-align: center; margin:0px auto">
     <div class="btn-group">
     {% if paginator.previous_page %}
