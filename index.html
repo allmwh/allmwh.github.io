@@ -39,6 +39,7 @@ canvas: true
 <!-- /.banner -->
 <!-- Main Session -->
 <section class="container content">
+  <div class="columns">
   <ol class="repo-list">
     {% for post in paginator.posts %}
       <li class="repo-list-item">
@@ -59,6 +60,7 @@ canvas: true
       <div class="repo-filler"> </div>
     {% endfor %}
   </ol>
+  </div>
   <div class="pagination text-align" style="text-align: center; margin:0px auto">
     <div class="btn-group">
     {% if paginator.previous_page %}
