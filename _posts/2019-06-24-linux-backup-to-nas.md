@@ -2,7 +2,7 @@
 layout: post
 title: 備份linux上的資料到synology nas (不需使用rsync+crontab)
 description: 使用synology的套件 active backup for business 可以直接使用ssh對於linux系統作定時備份
-categories: [資訊,Linux]
+categories: [Linux]
 ---
 之前寫過一篇linux rsync+crontab實現定時備份是把每台電腦都設rsync備份到nas上，但是這方法需要到每台電腦上都設定腳本檔，最近發現**synology 的NAS有一個超方便的工具，可以直接在NAS上操作所有的動作**，不用跑到每台電腦上設定
 

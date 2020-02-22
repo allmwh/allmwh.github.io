@@ -2,7 +2,7 @@
 layout: post
 title: 幫jekyll加上likecoin
 description: 幫jekyll加上likecoin
-categories: [資訊,jekyll]
+categories: [jekyll]
 ---
 之前在wordpress也有放likecoin的按鈕，透過加一些程式碼，也可以在jekyll實現
 

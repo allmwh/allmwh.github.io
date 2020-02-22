@@ -2,7 +2,7 @@
 layout: post
 title: python學習筆記-在for迴圈中迭代多個序列
 description: python學習筆記-在for迴圈中迭代多個序列
-categories: [資訊,python]
+categories: [python]
 ---
 以前沒有認真看過一遍[精通pytohn](https://www.tenlong.com.tw/products/9789863477310?list_name=srh)時，就遇到這個問題，稍微做個紀錄
 

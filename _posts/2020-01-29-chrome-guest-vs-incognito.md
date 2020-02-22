@@ -2,7 +2,7 @@
 layout: post
 title: chrome去別人家總是用「無痕模式」？，你應該是要用「訪客模式」！
 description: 無痕模式與訪客模式的差別
-categories: [資訊,chrome]
+categories: [chrome]
 ---
 
 我們去別的地方用別人的chrome，有些人(包括之前的我)，都會有個習慣，就是把chrome切成「無痕模式」，但是但是…，**chrome中的「訪客模式」**，才是我們去別人家，用不同的電腦時，該開的功能阿～～

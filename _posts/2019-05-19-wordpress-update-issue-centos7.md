@@ -2,7 +2,7 @@
 layout: post
 title: 解決wordpress 5.2不能更新-centos7 linux權限調整
 description: 因為LINUX的檔案權限及SELINUX設定不對導致wordpress無法更新的問題
-categories: [資訊,Linux,Wordpress]
+categories: [Linux,Wordpress]
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: spotify的桌面工具列小工具(windows 10)
 description: 讓spotify友windows桌面列的小工具，非常方便
-categories: [資訊,Windows]
+categories: [Windows]
 ---
 大概的效果就長這樣
 

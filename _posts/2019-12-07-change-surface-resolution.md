@@ -2,7 +2,7 @@
 layout: post
 title: 調低surface的解析度-安裝intel的驅動程式
 description: 調低surface的解析度
-categories: [資訊,Windows]
+categories: [Windows]
 ---
 
 調低surface的解析度，最近買了一台二手的surface pro 5，用起來真的不錯，很輕可以隨身帶著走，但一個小缺點就是，surface的**預設解析度好高xd**，調低解析度不僅可以**省電**一點，在遠端桌面的時候也不用**吃那麼多頻寬**，比較順

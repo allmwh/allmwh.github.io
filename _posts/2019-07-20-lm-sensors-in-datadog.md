@@ -2,7 +2,7 @@
 layout: post
 title: 將lm-sensors的CPU溫度資料回報到datadog上
 description: 將lm-sensors的CPU溫度資料回報到datadog上
-categories: [資訊,Linux,MyRepo]
+categories: [Linux,MyRepo]
 ---
 [datadog](https://www.datadoghq.com/)是個很好的資料收集平台，一個使用的例子是拿來監控電腦，效能、溫度…，不過datadog的agent沒有內建監測溫度的功能，所以**我就寫了一個外掛監測，並回報資料**
 
