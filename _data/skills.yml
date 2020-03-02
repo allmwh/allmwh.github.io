@@ -1,20 +1,20 @@
--
-  name: Language ability
-  keywords:
-    - "English(fluent)" 
-    - "Japanese(fluent)"
-    - "Chinese(native)"
+# -
+#  name: Language ability
+#  keywords:
+#    - "English(fluent)" 
+#    - "Japanese(fluent)"
+#    - "Chinese(native)"
 
--
-  name: Software 
-  keywords:
-    - Python
-    - Go 
--
-  name: Operations 
-  keywords:
-    - Docker 
-    - CentOS
-    - Ubuntu
+#-
+#  name: Software 
+#  keywords:
+#    - Python
+#    - Go 
+#-
+#  name: Operations 
+#  keywords:
+#    - Docker 
+    # - CentOS
+    # - Ubuntu
     
 
