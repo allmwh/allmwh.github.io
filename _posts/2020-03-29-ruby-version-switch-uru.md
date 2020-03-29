@@ -22,7 +22,6 @@ Windwos的話，大家比較推的都是用[rubyinstaller](https://rubyinstaller
 ```
 cd D:\Downloads #你的下載位址
 choco install uru.x.x.x.nupkg #下載檔名
-
 ```
 ## 將ruby加到uru裡
 
@@ -50,14 +49,12 @@ where CMD is one of:
   ruby   run a ruby command with all registered rubies
 
 for help on a particular command, type `uru help CMD`
-
 ```
 
-分別加入Ruby到uru裡，`tag`可以幫Ruby版本取名字，方便之後切換
+分別加入Ruby到uru裡，`--tag`可以幫Ruby版本取名字，方便之後切換
 ```
 uru admin add C:\Ruby24-x64\bin  --tag 249
 uru admin add C:\Ruby26-x64\bin  --tag 265
-
 ```
 
 查看目前有的Ruby
