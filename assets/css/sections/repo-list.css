@@ -140,3 +140,8 @@
 .repo-list-meta .meta-info-right a:hover {
   text-decoration: underline
 }
+
+
+.repo-list-item p img{
+  width: 100%;
+}
