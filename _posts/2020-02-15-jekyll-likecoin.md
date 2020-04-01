@@ -13,7 +13,7 @@ categories: [jekyll]
 
 以下代碼存成`.html`檔，放在想放的地方，我是放在`_includes`中
 
-```
+```html
 <h2>請幫我按個讚</h2>
       <iframe
         frameborder="no"  
@@ -31,7 +31,7 @@ categories: [jekyll]
 先找到你想要插入的地方寫入以下代碼，以我為例，我只想讓他在文章中出現，所以就插在`_layouts/post.html`中
 
 {% raw %}
-```
+```liquid
 {% if site.liker_id %}
     <div class="like-bottom">
       {% include like-bottom.html %}
@@ -44,7 +44,7 @@ categories: [jekyll]
 
 ### 寫入`_config.yml`
 在`_config.yml`中插入以下代碼
-```
+```yaml
 # LikeButton
 liker_id: allmwh0103
 ```

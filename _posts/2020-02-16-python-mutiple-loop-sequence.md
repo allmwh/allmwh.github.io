@@ -15,18 +15,18 @@ categories: [python]
 ## zip()函式介紹
 
 假如我有這兩個list
-```
+```python
 animal=['cat','lion','elephant','dog','zebra']
 color=['black','yellow','orange','pink','purple','red']
 ```
 就可以使用`zip()`同時迭代這兩個list
 
-```
+```python
 for x,y in zip(animal,color):
     print(x+':'+y)
 ```
 輸出為
-```
+```python
 cat:black
 lion:yellow
 elephant:orange

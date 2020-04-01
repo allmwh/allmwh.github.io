@@ -11,7 +11,7 @@ categories: [python]
 
 ## def函式
 要懂lambda一定要先知道一下def，def就是可以自己些功能的東西
-```
+```python
 def square(num):
     return num**2
 ```
@@ -19,21 +19,21 @@ def square(num):
 
 ## lambda:簡化的def function
 上面的def可以寫成一行，
-```
+```python
 def square(num):return num**2
 ```
 把`def`和`return`去掉
-```
+```python
 square(num):num**2
 ```
 再把`function`名稱和`參數括號`去掉，最前面加上`lambda`，lambda函式
-```
+```python
 lambda num:num**2
 ```
 
 ## lambda使用情境
 你可以幫lambda指定變數，呼叫的方式就和使用`def`的時候一樣
-```
+```python
 square=lambda num:num**2
 
 square(2)
@@ -42,7 +42,7 @@ square(2)
 但lambda比較常見的狀況是，你只需要這function一次，就不必要寫個`def`出來，若搭配`map()`
 
 `map()`:可以對list的所有值做某個你要的function，並返回一個新的list，`map(function,引入list)`
-```
+```python
 list_a=[1,2,3,4]
 list_b=list(map(lambda num:num**2,list_a))
 

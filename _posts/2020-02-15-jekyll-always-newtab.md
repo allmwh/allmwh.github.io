@@ -17,7 +17,7 @@ categories: [jekyll]
 
 或是複製以下代碼，我是放到 `/asset/js/new-tab.js`
 
-```
+```javascript
 function handleExternalLinks () {
     var host = location.host
     var allLinks = document.querySelectorAll('a')
@@ -56,7 +56,7 @@ function handleExternalLinks () {
 將`new-tab.js`代碼引用到網站裡，我是放到`_include/footer.html`，複製以下代碼插入
 
 {% raw %}
-```
+```html
 <!-- new-tab.js -->
 {% if site.new-tab.enable %}
   <script type="text/javascript" src="/assets/js/new-tab.js"></script>
@@ -70,7 +70,7 @@ function handleExternalLinks () {
 
 打開`_config.yml`，複製以下代碼插入
 
-```
+```yaml
 #連結自動開新分頁
 new-tab:
   enable: true

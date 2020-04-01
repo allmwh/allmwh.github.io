@@ -14,9 +14,9 @@ categories: [Linux,Wordpress]
 
 ## 先確認資料夾權限
 
-使用 ls -l 到網頁資料確認使用者，資料夾的擁有者須為網頁伺服器的使用者(如centos的apache的使用者為”apache”)
+使用 ls -l 到網頁資料確認使用者，資料夾的擁有者須為網頁伺服器的使用者(如centos的apache的使用者為"apache")
 
-```
+```bash
 # ls -l /var/www/html/wordpress
 
 -rwxr-xr-x.  1 apache apache   420 12月  1  2017 index.php
@@ -27,7 +27,7 @@ categories: [Linux,Wordpress]
 
 若使用者為root或其他的，就會沒有權限，透過chown更改權限 ， 這樣大概就可以成功更新了!
 
-```
+```bash
 # chown -R apache:apache /var/www
 ```
 
@@ -37,7 +37,7 @@ SELinux簡單來說就是讓linux很安全吧，所以很多權限都會被限�
 
 查看SELinux狀態 ， Current mode為**enforcing**的時候，SELinux是打開的
 
-```
+```bash
 # sudo sestatus
 
 SELinux status:                 enabled
@@ -53,7 +53,7 @@ Max kernel policy version:      31
 
 輸入setenforce 0將SELinux暫時關閉
 
-```
+```bash
 # setenforce 0
 # sestatus
 
@@ -72,7 +72,7 @@ Max kernel policy version:      31
 
 上述更改SELinux的設定只是暫時的，重開機後就會恢復原本的設定，若要永久修改，可以編輯一下設定檔， 更改SELinux為關閉>>**SELINUX=disable**，這樣就會永久保留設定囉
 
-```
+```bash
 # vim /etc/selinux/config
 
 # This file controls the state of SELinux on the system.
@@ -87,6 +87,7 @@ SELINUX=disable
 #     mls - Multi Level Security protection.
 SELINUXTYPE=targeted
 ```
+
 
 ## 參考資料
 
