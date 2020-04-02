@@ -85,6 +85,10 @@ drwxr-xr-x 2 root root      4096  1月 28 01:03 桌面/
 drwxr-xr-x 2 root root      4096  1月 26 20:38 模板/
 drwxr-xr-x 2 root root      4096  1月 26 20:38 音樂/</code></pre>
 
-- - -
+
 要貼`html`的地方，看官方文件或我的md應該都能了解，不懂的話可以問我，只有要高亮的話，設定下來應該算是簡單，又能有好看的程式碼~~
 
+## 參考資料
+* Replace the Rouge highlighter with Prism.js in Jekyll: <https://mycyberuniverse.com/replace-rouge-highlighter-prismjs-jekyll.html>
+* Prism:<https://prismjs.com/>
+* Prism repo:<https://github.com/PrismJS/prism>
