@@ -54,7 +54,7 @@ prismjs網頁上的Plugins有這些，這邊介紹幾個我摸過的
 > 
 >官方github範例:<https://git.io/Jvdb6>
 > 
->我的.md:
+>我的.md:<https://git.io/Jvdb5>
 
 <pre class="language-none line-numbers"><code>This raw text is not highlighted
 but it still has
@@ -66,7 +66,7 @@ line numbers</code></pre>
 >
 >官方github範例:<https://git.io/Jvdbi>
 >
->我的.md:
+>我的.md:<https://git.io/Jvdb5>
 
 裡面的`root`、`localhost`、或是user標示`#`都可以自己設定
 
