@@ -32,15 +32,15 @@ prism.css /assets/css/globals/prism.css
 
 ## 使用prismjs
 在寫文章的時候，markdown的程式碼區塊是三個反引號```，只要在反引號旁加上程式語言名稱，`prismjs`就會依照設定的去高亮
-![01](/attachments/2020-04-02-prismjs-in-jekyll.md/01.png)
+![01](/attachments/2020-04-02-prismjs-in-jekyll/01.png)
 上面出來的結果就是一開始的範例，當然不只python，要javascript、html、ruby等程式語法都可以，他也支援bash或powershell等command line
 
 ## 小工具Plugins
 有沒有注意到我的高亮區塊上面有按鈕，透過Plugins就可以實現了
-![02](/attachments/2020-04-02-prismjs-in-jekyll.md/02.png)
+![02](/attachments/2020-04-02-prismjs-in-jekyll/02.png)
 
 prismjs網頁上的Plugins有這些，這邊介紹幾個我摸過的
-![03](/attachments/2020-04-02-prismjs-in-jekyll.md/03.png)
+![03](/attachments/2020-04-02-prismjs-in-jekyll/03.png)
 
 ### Copy to Clipboard Button
 就是可以貼到剪貼版裡~~，安裝很簡單，就是我現在有的樣式，勾起來引入`css`和`js`就自動實現了
