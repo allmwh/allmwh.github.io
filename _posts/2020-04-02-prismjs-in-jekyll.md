@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "prismjs讓jekyll語法高亮"
-description: "prismjs讓jekyll語法高亮"
+title: "prismjs讓jekyll程式碼區塊高亮"
+description: "prismjs讓jekyll程式碼區塊高亮"
 categories: [jekyll]
 ---
 
-語法高亮就是像這樣，可以依照特定的程式語言標示不同顏色，透過`prismjs`就可以自動幫我們高亮了
+程式碼區塊語法高亮(Syntax highlighting)就是像這樣，可以依照特定的程式語言標示不同顏色，透過`prismjs`就可以自動幫我們高亮了
 
 ```python
 print('this is a python code^^')
