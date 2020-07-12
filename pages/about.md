@@ -54,6 +54,12 @@ Theme repo:[https://github.com/zoharyips/zoharyips.github.io](https://github.com
 
 ### 大事記
 
+#### 2020/07/12
+
+新學校，新生活，碩士生活開始囉，有機會來分享科科碩士
+
+------
+
 #### 2020/02/09
 
 wordpress實在太慢了qqq，所以踏進了靜態網頁的世界，明明前端甚麼的都還是不懂，之後再慢慢把wp搬過來，邊摸邊學吧~~
