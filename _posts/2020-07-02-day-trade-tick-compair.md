@@ -25,9 +25,12 @@ categories: [生活,投資]
 附上互動式的網頁及程式碼，有需要可以參考一下
 
 ## 互動網頁與原始碼
-<iframe src="/attachments/2020-07-02-day-trade-tick-compair/site.html" width="800" height="650"></iframe>
-
 ### 網頁:<https://bit.ly/2CoM67E>
+<iframe
+        frameborder="no"  
+        style="width:100%; max-width:700px; height:400px; margin:0 auto; overflow:hidden; display:block;"
+        src="/attachments/2020-07-02-day-trade-tick-compair/site.html">
+      </iframe>
 游標移上去，可以看到4個數字
 * price:股價
 * start_make:要幾檔才賺，小數點的話就進位，這裡賺錢是指，你賺到買賣所付出的所有手續費，不考慮退佣
