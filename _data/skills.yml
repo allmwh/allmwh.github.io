@@ -1,20 +1,20 @@
-# -
-#  name: Language ability
-#  keywords:
-#    - "English(fluent)" 
-#    - "Japanese(fluent)"
-#    - "Chinese(native)"
+ -
+  name: 語言
+  keywords:
+    - "English(TOEIC 825)" 
+    - "Japanese(JLPT N1)"
 
-#-
-#  name: Software 
-#  keywords:
-#    - Python
-#    - Go 
-#-
-#  name: Operations 
-#  keywords:
-#    - Docker 
-    # - CentOS
-    # - Ubuntu
+ -
+  name: 資訊 
+  keywords:
+    - "Docker"
+    - "Linux system"
+    - "Python(for data science)"
+    - "Web Developer(a little)"
+     
+ -
+  name: 生技技術 
+  keywords:
+    - "still learning"
     
 
