@@ -4,16 +4,19 @@ title: 關於我
 permalink: /about/
 ---
 
-紀錄在生活上學到的東西，目前就讀生科研究所，但對資訊比較有興趣，目前想多學學ml與網頁前後端
+紀錄在生活上學到的東西，目前就讀生科研究所，但對資訊比較有興趣，想多學學ml與網頁前後端
+
+### 履歷
+WIP
 
 ### 學經歷
 
 * 國立陽明大學，生化所 / Jul 2020 - Present
   
 * 北海道大學，農學部交換 / Mar 2018 - Aug 2018
- 
+ <br><img src="/attachments/about/hokudai.jpg" alt="hokudai" class="about-img" />
 * 國立臺灣海洋大學，生科系 / Sep 2016 - Jun 2020
-
+ <br><img src="/attachments/about/ntou.jpg" alt="ntou" class="about-img" />
 ### 技能
 
 <!-- ### 技能樹 -->

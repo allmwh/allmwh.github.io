@@ -1,3 +1,20 @@
+.about-skill {
+  position: relative;
+  top: -1px;
+  color: #007bff;
+  border-color: #007bff;
+}
+
+.about-img {
+  margin-top: 0.25rem;
+  margin-left: 0.25rem;
+  padding: 0.1rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 1rem;
+  height: 250px;
+}
+
 .site-header,.site-header-actions .select-menu {
   position: relative
 }
