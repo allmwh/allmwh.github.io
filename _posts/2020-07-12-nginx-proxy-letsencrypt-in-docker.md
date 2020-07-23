@@ -12,7 +12,8 @@ categories: [docker]
 ## nginx-proxy的compose file
 安裝很簡單，參考我docker-compose的範例
 
-<pre class="language-none line-numbers"><code>version: "3.3"
+<pre class="language-yml line-numbers"><code>version: "3.3"
+services:
  nginx-proxy:
   container_name: nginx-proxy
   image: jwilder/nginx-proxy:latest
