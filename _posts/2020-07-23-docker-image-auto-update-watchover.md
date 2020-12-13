@@ -2,7 +2,7 @@
 layout: post
 title: "自動更新docker的image-watchover"
 description: "自動更新docker的image-watchover"
-categories: [docker,linux]
+categories: [Docker,Linux]
 ---
 
 docker可以很快部屬所需的服務，更新或刪除也都很方便，但如果抓的image的**tag**是**latest**的話，docker不會自動幫你更新image，可以透過**watchtower**這個container幫我們監控image有沒有新的，自動抓新的image下來，並重新佈署container

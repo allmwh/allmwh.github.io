@@ -2,7 +2,7 @@
 layout: post
 title: "sudo指令不用打密碼"
 description: "sudo指令不用打密碼"
-categories: [linux]
+categories: [Linux]
 ---
 
 稍微紀錄一下怎麼讓sudo的時候不用打密碼

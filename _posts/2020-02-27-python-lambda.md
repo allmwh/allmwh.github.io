@@ -2,7 +2,7 @@
 layout: post
 title: python學習筆記-簡化的def:lambda function
 description: python學習筆記-簡化的def:lambda function
-categories: [python]
+categories: [Python]
 ---
 
 看[精通python](https://www.tenlong.com.tw/products/9789863477310)的時候其實沒有很懂lambda，[看了udemy的某課程影片](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)才比較了解一些

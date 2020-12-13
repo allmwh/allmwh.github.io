@@ -2,7 +2,7 @@
 layout: post
 title: "ubuntu 音訊訊號持續輸出，解決耳機播放雜音"
 description: "ubuntu 音訊訊號持續輸出，解決耳機播放雜音"
-categories: [linux]
+categories: [Linux]
 ---
 
 Ubuntu會在**沒有播放聲音的時候，停止輸出音訊訊號**，這樣會有一些問題，比如說聲音的一開始都會沒聽到，或是耳機常常有因為聲音訊號開啟或關閉的雜音，找了老半天資料，終於有解法

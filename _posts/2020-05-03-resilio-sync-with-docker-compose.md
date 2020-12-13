@@ -2,7 +2,7 @@
 layout: post
 title: "用docker compose使用resilio sync"
 description: "用docker compose使用resilio sync"
-categories: [docker,Linux]
+categories: [Docker,Linux]
 ---
 
 docker+compose真的頗方便，一些系統的相依問題都能不管他，嘗試使用了docker在linux(Ubuntu)下來佈建`resilio sync`，resilio sync是分散式的檔案同步軟體，介紹可以看[這邊](https://mobileai.net/2017/02/13/resilio-sync/)

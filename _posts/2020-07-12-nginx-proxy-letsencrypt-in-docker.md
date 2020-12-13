@@ -2,7 +2,7 @@
 layout: post
 title: "在nginx-proxy中使用Let's Encrypt，方便使用https"
 description: "在nginx-proxy中使用Let's Encrypt，方便使用https"
-categories: [docker]
+categories: [Docker]
 ---
 
 [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)是docker中的image，可以很方便的把其他container的服務代理出去，而搭配[**docker-letsencrypt-nginx-proxy-companion**](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion)即可透過[Let's Encrypt](https://letsencrypt.org/)，將網站很懶人的加上https憑證

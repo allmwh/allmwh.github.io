@@ -2,7 +2,7 @@
 layout: post
 title: 兩個輔助sci-hub的腳本
 description: sci-hub在瀏覽器上的輔助腳本，讓sci-hub更好用
-categories: [chrome,研究所]
+categories: [Chrome,研究所]
 ---
 
 sci-hub應該不少人都知道，就是可以不用透過學校vpn來下載文獻的東西(學校沒買期刊的話，vpn還不一定有用…)，這樣的方式似乎不太合法xd，不過為了畢業、為了boss，還是別管那麼多吧…， 這邊**介紹兩個腳本給chrome或firefox用**，使用sci-hub會方便許多

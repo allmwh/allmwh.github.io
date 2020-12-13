@@ -2,7 +2,7 @@
 layout: post
 title: "快速建立類似於VPN的虛擬網路，不用在server端安裝-sshuttle"
 description: "快速建立類似於VPN的虛擬網路，不用在server端安裝-sshuttle"
-categories: [linux]
+categories: [Linux]
 ---
 
 sshuttle可以幫助快速建立與遠端電腦的網路通道，不需在server特別安裝東西，只需要在server有`ssh`與`python`就可以連結server端的子網

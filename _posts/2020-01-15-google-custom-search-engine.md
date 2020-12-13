@@ -2,7 +2,7 @@
 layout: post
 title: 用chrome網址搜尋查字典-自訂搜尋引擎
 description: 用chrome網址搜尋查字典-自訂搜尋引擎
-categories: [chrome]
+categories: [Chrome]
 ---
 
 我猜標題這樣下可能沒人知道這在幹嘛，直接展示一遍好了～

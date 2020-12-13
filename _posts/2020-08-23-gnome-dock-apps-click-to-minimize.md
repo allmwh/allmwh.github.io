@@ -2,7 +2,7 @@
 layout: post
 title: "ubuntu 20.04 左側應用程式可以click to minimize"
 description: "ubuntu 20.04 左側應用程式可以click to minimize"
-categories: [linux]
+categories: [Linux]
 ---
 
 ubuntu左側app列打開應用程式的時候，預設是不能再按一次那個應用程式縮小的，可以把它改成與windows類似，也就是按了可以縮小(click to minimize)

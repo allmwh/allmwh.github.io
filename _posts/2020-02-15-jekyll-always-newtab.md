@@ -2,7 +2,7 @@
 layout: post
 title: 設定jekyll開啟連結都使用新分頁開啟
 description: 設定jekyll開啟連結都使用新分頁開啟
-categories: [jekyll]
+categories: [Jekyll]
 ---
 
 在搞jekyll的時候，發現發現**開超連結都沒辦法開新分頁**，可以**透過加一些程式碼**，讓所有的非網域內的網址都用超連結開
