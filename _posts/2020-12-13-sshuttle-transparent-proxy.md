@@ -18,7 +18,7 @@ sshuttle可以幫助快速建立與遠端電腦的網路通道，不需在server
 
 sshuttle已經包含在很多linux的發行版的包當中，直接使用軟體管理工具安裝就可了，以ubuntu為例:
 ```bash
-apt-get install sshuttle
+sudo apt-get install sshuttle
 ```
 其他的發行版就參考他的repo吧
 
