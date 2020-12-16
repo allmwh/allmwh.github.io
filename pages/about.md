@@ -21,7 +21,7 @@ WIP
 
 <!-- ### 技能樹 -->
 
-<div>
+<!-- <div>
 <ul style="list-style-type: none;">
     {% for skill in site.data.skills %}
       <li>
@@ -34,7 +34,7 @@ WIP
       </li>
     {% endfor %}
  </ul>
-</div>
+</div> -->
 
 ### 連繫
 
