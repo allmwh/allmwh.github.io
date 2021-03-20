@@ -12,13 +12,13 @@ categories: [Linux,Docker]
 
 想用一系列文章紀錄一下我裝的東西，也怕以後忘記，之後會以一個禮拜1-2篇，介紹一下我用的一堆container，這篇先簡短介紹一下我用的一堆服務
 
-## 怎麼找self-host軟體
+## 怎麼找selfhosted軟體
 一開始當然就是google了，想要用什麼工具自架，就打`什麼工具 selfhosted`就有一堆結果了，也有人整理了self-host的清單，可以直接從裡面找關鍵字
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
-## 目前用的self-host介紹
+## 目前用的selfhosted服務介紹
 ### traefik
-反向代理服務器，因為有很多sef-host服務都要放網頁出去，用個反向代理工具可以很快管理，也很方便，一定得裝的
+反向代理服務器，因為有很多selfhosted服務都要放網頁出去，用個反向代理工具可以很快管理，也很方便，一定得裝的
 * image: [traefik](https://hub.docker.com/_/traefik)
 * github:　<https://github.com/traefik/traefik>
 * 介紹: 
